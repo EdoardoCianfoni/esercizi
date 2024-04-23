@@ -167,7 +167,7 @@ print(f"sei invitato a cena {guest_list[3]}")
 print(f"sei invitato a cena {guest_list[4]}")
 
 pop{guest_list[0]}
-pop{guest_list[4]}
+pop{guest_list[4] }
 
 
 
